@@ -1,3 +1,3 @@
 # MultiLinearRegression
 
-![](Result.JPG)
+![](Result.PNG)
